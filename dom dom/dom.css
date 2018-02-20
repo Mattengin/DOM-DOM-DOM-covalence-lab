@@ -1,0 +1,10 @@
+.box{
+    background-color: rgba(121, 146, 75, 0.603);
+    float: right;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+
